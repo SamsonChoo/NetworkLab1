@@ -38,6 +38,7 @@ This lab aims to learn how we use Scapy and Python to program a simple network p
 ## Authors
 
 * [David Lu](https://github.com/yungshenglu)
+* [Samson Choo](https://github.com/SamsonChoo)
 
 > This repository is inspired by [Kevin Cyu](https://github.com/kevinbird61). He gave me lots of advices and supports during preparation.
 
